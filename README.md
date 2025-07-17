@@ -45,7 +45,7 @@ Ideal for marketing analysts, FP&A teams, or small business owners who need to:
 
 This model isn’t just accurate, it’s **interactive** and **intuitive**. It streamlines complex date‑driven analyses into a few clicks, empowering cross-functional teams with real-time, self-service insights into spend trends and variances.
 
-### 🧠 About the Author
+###  About the Author
 
 **Shaon Brown** – FP&A analyst with an MBA and FP&A certification. Passionate about turning spreadsheets into strategic tools.  
 [Connect on LinkedIn](https://www.linkedin.com/in/shaonbrownmba/) | [View Portfolio](https://github.com/sbrown-analytics)
