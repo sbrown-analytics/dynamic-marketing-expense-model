@@ -16,6 +16,9 @@ An Excel‑based FP&A tool for flexible, interactive tracking of marketing spend
 
 - **Conditional Formatting**  
   Dark‑blue fill applied to the header row (B6:M6) for the selected months to enhance UX without clutter.
+
+  ![Excel Model Preview](./Marketing_Expense_Screenshot2.png)
+
   
 📁 [Download the Excel Model](./SB_Dynamic_Marketing_Expense_Model_2024.xlsx)
 
