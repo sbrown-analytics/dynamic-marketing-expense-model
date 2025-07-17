@@ -19,8 +19,10 @@ An Excel‑based FP&A tool for flexible, interactive tracking of marketing spend
 
   ![Excel Model Preview](./Marketing_Expense_Screenshot2.png)
 
+
+Click below to view the live version of the report (no download needed):
   
-📁 [Download the Excel Model](./SB_Dynamic_Marketing_Expense_Model_2024.xlsx)
+📁 **Open in Google Sheets** https://docs.google.com/spreadsheets/d/1jKfvHzSyoytbCMD7UHp6SvshY2hWdIBb/edit?usp=sharing&ouid=106181397562131056713&rtpof=true&sd=true 
 
 ---
 ## 📈 Use Case
